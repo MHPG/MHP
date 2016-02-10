@@ -238,8 +238,8 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "leave_ban"
-    },
+    "leave_ban",
+    }
     sudo_users = {108639314},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
